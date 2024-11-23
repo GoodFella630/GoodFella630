@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario Anderson</h1>
 <h3 align="center">I Hope You Enjoy The Entertainment.</h3>
 
-- 🌱 I’m currently learning **PHP & React**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mario@devmario.com**
 
